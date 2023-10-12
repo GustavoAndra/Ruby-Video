@@ -1,0 +1,9 @@
+development:
+  clients:
+    default:
+      database: cadastro_funcionarios
+      hosts:
+        - localhost:27017
+  options:
+    use_activesupport_time_zone: true
+    raise_not_found_error: false
